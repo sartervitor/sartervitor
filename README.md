@@ -4,7 +4,7 @@ Iae, me chamo Vitor Gabriel 🤙
 Estudante de Desenvolvimento de Sistemas
 -----------------------------
 
-Tenho 23 anos, sempre fui muito curioso e sempre gostei da área da computação e tecnologia.
+Tenho 23 anos, sempre gostei da área da computação e tecnologia.
 
 Estudante de Análise e Desenvolvimento de Sistemas.
 
