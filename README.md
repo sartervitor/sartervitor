@@ -1,9 +1,6 @@
 Olá! Me chamo Vitor Gabriel 🤙
 ==========================
 
-Estudante de Desenvolvimento de Sistemas
------------------------------
-
 Tenho 23 anos, sempre gostei da área da computação e tecnologia.
 
 Estudante de Análise e Desenvolvimento de Sistemas.
@@ -20,17 +17,21 @@ Estudante de Análise e Desenvolvimento de Sistemas.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sartervitor)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sartervitor)
 
-![Sarter GitHub stats](https://github-readme-stats.vercel.app/api?username=sartervitor&show_icons=true&theme=dracula&count_private=true)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sartervitor&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sartervitor&layout=compact&theme=tokyonight"/>
+</div>
+
 
 ## Tecnologias que eu uso no meu dia
 
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-</div><br/>
+<div>
+<img align="center" alt="vg-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="center" alt="vg-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="center" alt="vg-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="center" alt="vg-lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"/>
+<img align="center" alt="vg-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+</div>
+
+## Apaixonado por tecnologia, games e programação
