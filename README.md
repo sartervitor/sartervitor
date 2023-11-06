@@ -1,37 +1,48 @@
-Olá! Me chamo Vitor Gabriel 🤙
-==========================
-
-Tenho 23 anos, sempre gostei da área da computação e tecnologia.
-
-Estudante de Análise e Desenvolvimento de Sistemas.
-
-* 🌍  Moro em Serra-ES, Brazil
-* 🚀  Trabalho atualmente na [NoPaper Cloud](https://nopapercloud.com.br)
-* 🧠  Estudo atualmente HTML, CSS, JavaScript, C# e .lua
-* 🤝  Estou aberto para novas experiências e estou disposto a aprender coisas novas
-* 🎮  Curto jogar nas minhas horas vagas
-
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ZeNp2DB3Sx)
-[![Linkedin]( 	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-gabriel-859617214/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sartervitor)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sartervitor)
-
+## Olá 👋, Bem vindos ao meu perfil!
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sartervitor&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sartervitor&layout=compact&theme=tokyonight"/>
+
+ Meu nome é Vitor Gabriel e sou completamente apaixonado por tecnologia.
 </div>
 
+##
 
-## Tecnologias que eu uso no meu dia
+<img align="right" alt="PNG" src="https://cdn.discordapp.com/attachments/1171086914640679053/1171087299979788358/computer-illustration_1.png?ex=655b670a&is=6548f20a&hm=6aaf24cf280de40dfee957c7913c394e8432851f96f7e600f90b75374e12925a&" width="360px"/>
+  
+### 🧐 Sobre mim:
 
-<div>
-<img align="center" alt="vg-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="center" alt="vg-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="center" alt="vg-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="center" alt="vg-lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"/>
-<img align="center" alt="vg-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+- 💻  Desenvolvedor Júnior
+- 🚀  Trabalho atualmente na [NoPaper Cloud](https://nopapercloud.com.br)
+- 🌍  Vitória-ES, Brazil
 
+
+##
+
+### 🔨 Linguagens:
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="sartervitor-HTML" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> &nbsp;
+  <img align="center" alt="sartervitor-CSS" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" > &nbsp;
+  <img align="center" alt="sartervitor-BOOTSTRAP" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"> &nbsp; 
+  <img align="center" alt="sartervitor-PHP" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" > &nbsp;
+  <img align="center" alt="sartervitor-CI3" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" > &nbsp; 
+  <img align="center" alt="sartervitor-JS" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> &nbsp; 
+  <img align="center" alt="sartervitor-MYSQL" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"> &nbsp;
+  <img align="center" alt="sartervitor-LUA" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"> &nbsp;
 </div>
 
-## Apaixonado por tecnologia, games e programação
+### 💭 Redes Sociais:
+
+<div style="display: inline_block"><br>
+  <a href="https://twitter.com/sartervitor" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://www.instagram.com/sartervitor/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/sartervitor/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+</div>
+
+ ##
+
+
+
+<br>
+
+
