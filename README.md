@@ -21,13 +21,13 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="sartervitor-HTML" title="HTML" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> &nbsp;
-  <img align="center" alt="sartervitor-CSS" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" > &nbsp;
-  <img align="center" alt="sartervitor-BOOTSTRAP" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"> &nbsp; 
-  <img align="center" alt="sartervitor-PHP" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" > &nbsp;
-  <img align="center" alt="sartervitor-CI3" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" > &nbsp; 
-  <img align="center" alt="sartervitor-JS" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> &nbsp; 
-  <img align="center" alt="sartervitor-MYSQL" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"> &nbsp;
-  <img align="center" alt="sartervitor-LUA" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"> &nbsp;
+  <img align="center" alt="sartervitor-CSS" title="CSS" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" > &nbsp;
+  <img align="center" alt="sartervitor-BOOTSTRAP" title="Boostrap" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"> &nbsp; 
+  <img align="center" alt="sartervitor-PHP" title="PHP" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" > &nbsp;
+  <img align="center" alt="sartervitor-CI3" title="CodeIgniter 3" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" > &nbsp; 
+  <img align="center" alt="sartervitor-JS" title="JavaScript" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> &nbsp; 
+  <img align="center" alt="sartervitor-MYSQL" title="MySql" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"> &nbsp;
+  <img align="center" alt="sartervitor-LUA" title=".Lua" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"> &nbsp;
 </div>
 
 ### 💭 Redes Sociais:
