@@ -20,7 +20,7 @@
 ### 🔨 Linguagens:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="sartervitor-HTML" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> &nbsp;
+  <img align="center" alt="sartervitor-HTML" title="HTML" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> &nbsp;
   <img align="center" alt="sartervitor-CSS" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" > &nbsp;
   <img align="center" alt="sartervitor-BOOTSTRAP" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"> &nbsp; 
   <img align="center" alt="sartervitor-PHP" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" > &nbsp;
