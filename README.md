@@ -30,7 +30,7 @@
   <img align="center" alt="sartervitor-LUA" title=".Lua" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"> &nbsp;
 </div>
 
-### 💭 Redes Sociais:
+### 💭 Social Media:
 
 <div style="display: inline_block"><br>
   <a href="https://www.instagram.com/sartervitor/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
