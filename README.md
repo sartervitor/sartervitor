@@ -2,6 +2,7 @@
 <div>
 
  Meu nome é Vitor Gabriel e sou completamente apaixonado por tecnologia.
+ Comecei minha vida na área de programação através de jogos, sempre quis aprender como funcionava por trás dos jogos e acabei me apaixonando por essa área! Cada vez mais fui me aprodundando, procurando entender mais e estudando programação.
 </div>
 
 ##
