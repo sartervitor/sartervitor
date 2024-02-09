@@ -9,7 +9,7 @@
 
 <img align="right" alt="PNG" src="https://cdn.discordapp.com/attachments/1171086914640679053/1171087299979788358/computer-illustration_1.png?ex=655b670a&is=6548f20a&hm=6aaf24cf280de40dfee957c7913c394e8432851f96f7e600f90b75374e12925a&" width="360px"/>
   
-### 🧐 About Me:
+### 🧐 Sobre mim:
 
 - 💻  Desenvolvedor Júnior
 - 🚀  Trabalho atualmente na [NoPaper Cloud](https://nopapercloud.com.br)
