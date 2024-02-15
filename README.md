@@ -24,7 +24,7 @@
   <img align="center" alt="sartervitor-HTML" title="HTML" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> &nbsp;
   <img align="center" alt="sartervitor-CSS" title="CSS" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" > &nbsp;
   <img align="center" alt="sartervitor-BOOTSTRAP" title="Boostrap" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"> &nbsp; 
-  <img align="center" alt="sartervitor-CSHARP" title="Csharp" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> &nbsp; 
+  <img align="center" alt="sartervitor-CSHARP" title="C#" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> &nbsp; 
   <img align="center" alt="sartervitor-PHP" title="PHP" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" > &nbsp;
   <img align="center" alt="sartervitor-CI3" title="CodeIgniter 3" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" > &nbsp; 
   <img align="center" alt="sartervitor-JS" title="JavaScript" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> &nbsp; 
