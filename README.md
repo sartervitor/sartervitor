@@ -15,7 +15,6 @@ Sou movido pela **paixão por tecnologia** e estou sempre em busca de novos apre
 ### 🧐 Sobre mim:
 
 - 💻 **Desenvolvedor Júnior**, com foco na criação de soluções escaláveis.
-- 🌍 **Vitória - ES, Brasil**.
 - 🎓 **Graduação em Análise e Desenvolvimento de Sistemas** pela **Uniamérica** (jul de 2022 - dez de 2024).
 - 🎓 **Pós-graduação Lato Sensu em Engenharia de Software** (março de 2025).
 - 🛠️ Experiência com **PHP**, **Laravel**, **JavaScript**, **MySQL**, entre outras tecnologias.
