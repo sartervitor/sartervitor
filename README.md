@@ -1,15 +1,12 @@
+
 ## 👋 Olá, seja bem-vindo(a) ao meu perfil!
 
-<div>
+Me chamo **Vitor Gabriel**, tenho **25 anos** e atuo como **Desenvolvedor**, com foco na criação de **soluções escaláveis e eficientes**.  
+Sou formado em **Análise e Desenvolvimento de Sistemas** pela **Uniamérica** e atualmente curso **pós-graduação em Engenharia de Software**.  
 
-Me chamo Vitor Gabriel, tenho 25 anos e atuo como Desenvolvedor, com foco na criação de soluções escaláveis e eficientes.
-Sou formado em Análise e Desenvolvimento de Sistemas pela Uniamérica e atualmente curso pós-graduação em Engenharia de Software.
+Ao longo da minha jornada, venho aprimorando minhas habilidades por meio de **certificações em desenvolvimento web**, alinhando teoria à prática no dia a dia da área de tecnologia.  
 
-Ao longo da minha jornada, venho aprimorando minhas habilidades por meio de certificações em desenvolvimento web, aliando teoria à prática no dia a dia da área de tecnologia.
-
-Sou movido pela paixão por tecnologia e estou sempre em busca de novos aprendizados que me permitam contribuir com o desenvolvimento de sistemas robustos, modernos e inovadores.
-
-</div>
+Sou movido pela **paixão por tecnologia** e estou sempre em busca de novos aprendizados que me permitam contribuir com o desenvolvimento de **sistemas robustos**, **modernos** e **inovadores**.
 
 <img align="right" alt="Computador" src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="360px"/>
 
@@ -17,9 +14,12 @@ Sou movido pela paixão por tecnologia e estou sempre em busca de novos aprendiz
 
 ### 🧐 Sobre mim:
 
-- 💻 Desenvolvedor Júnior  
-- 🚀 Atualmente na [NoPaper Cloud](https://nopapercloud.com.br)  
-- 🌍 Vitória - ES, Brasil  
+- 💻 **Desenvolvedor Júnior**, com foco na criação de soluções escaláveis.
+- 🌍 **Vitória - ES, Brasil**.
+- 🎓 **Graduação em Análise e Desenvolvimento de Sistemas** pela **Uniamérica** (jul de 2022 - dez de 2024).
+- 🎓 **Pós-graduação Lato Sensu em Engenharia de Software** (março de 2025).
+- 🛠️ Experiência com **PHP**, **Laravel**, **JavaScript**, **MySQL**, entre outras tecnologias.
+- 🎯 Focado em desenvolver **sistemas robustos**, **eficientes** e **inovadores**.
 
 ---
 
