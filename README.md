@@ -2,9 +2,12 @@
 
 <div>
 
-Me chamo **Vitor Gabriel** e sou completamente apaixonado por tecnologia.  
-Minha jornada na programação começou com jogos — sempre quis entender como funcionava tudo "por trás das telas" e, desde então, mergulhei nesse universo incrível.  
-A cada passo, fui me aprofundando, aprendendo novas linguagens e frameworks, e me encantando cada vez mais por essa área! 💙
+Me chamo Vitor Gabriel, tenho 25 anos e atuo como Desenvolvedor, com foco na criação de soluções escaláveis e eficientes.
+Sou formado em Análise e Desenvolvimento de Sistemas pela Uniamérica e atualmente curso pós-graduação em Engenharia de Software.
+
+Ao longo da minha jornada, venho aprimorando minhas habilidades por meio de certificações em desenvolvimento web, aliando teoria à prática no dia a dia da área de tecnologia.
+
+Sou movido pela paixão por tecnologia e estou sempre em busca de novos aprendizados que me permitam contribuir com o desenvolvimento de sistemas robustos, modernos e inovadores.
 
 </div>
 
@@ -45,8 +48,5 @@ A cada passo, fui me aprofundando, aprendendo novas linguagens e frameworks, e m
   </a>
   <a href="https://www.linkedin.com/in/sartervitor/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://t.me/teuseutelegram" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
 </div>
