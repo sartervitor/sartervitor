@@ -42,9 +42,6 @@ Sou movido pela **paixão por tecnologia** e estou sempre em busca de novos apre
 ### 💬 Onde me encontrar:
 
 <div style="display: inline_block"><br>
- // <a href="https://www.instagram.com/sartervitor/" target="_blank">
-   // <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
- // </a>
   <a href="https://www.linkedin.com/in/sartervitor/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
