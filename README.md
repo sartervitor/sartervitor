@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Vitor Gabriel
 
-Sou Desenvolvedor Júnior com foco em desenvolvimento web, criação de sistemas dinâmicos e construção de soluções eficientes, escaláveis e bem organizadas.
+Sou Desenvolvedor Pleno com foco em desenvolvimento web, criação de sistemas dinâmicos e construção de soluções eficientes, escaláveis e bem organizadas.
 
 Atuo principalmente com **PHP, Laravel, CodeIgniter, JavaScript e MySQL**, desenvolvendo aplicações voltadas para gestão, automação de processos, painéis administrativos, sistemas personalizados e soluções web completas.
 
