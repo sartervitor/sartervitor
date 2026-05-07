@@ -10,7 +10,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas pela Uniamérica** e atu
 
 ## 🚀 Sobre mim
 
-- 💻 Desenvolvedor Júnior focado em desenvolvimento web e sistemas personalizados.
+- 💻 Desenvolvedor Pleno focado em desenvolvimento web e sistemas personalizados.
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela Uniamérica.
 - 🎓 Pós-graduando em Engenharia de Software.
 - 🧠 Interesse constante por boas práticas, arquitetura de software e melhoria contínua.
