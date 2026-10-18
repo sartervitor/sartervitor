@@ -9,7 +9,7 @@ Minha principal especialidade está no ecossistema **PHP**, utilizando Laravel, 
 Além do desenvolvimento de novas funcionalidades, tenho experiência com **sistemas legados, refatoração de código e modernização de aplicações**, buscando equilibrar qualidade técnica, desempenho e necessidades do negócio.
 
 🎓 Graduado em **Análise e Desenvolvimento de Sistemas — Uniamérica**  
-📚 Pós-graduando em **Engenharia de Software**  
+📚 Pós-graduado em **Engenharia de Software**  
 📍 Espírito Santo, Brasil  
 💼 Desenvolvedor Full Stack Pleno
 
